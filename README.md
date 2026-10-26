@@ -33,3 +33,7 @@ This project practices variables, user input, conditional statements, arithmetic
 - Add a loop for repeated calculations.
 - Add more mathematical operations.
 - Improve the user interface.
+
+## Screenshot
+
+![Python Calculator running](Screenshot 2026-10-26 161414.png)
